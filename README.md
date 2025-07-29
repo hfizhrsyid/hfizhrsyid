@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Student and lifelong learner.
+Student and lifelong learner.\
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hfizhrsyid&show_icons=true&theme=dark)
